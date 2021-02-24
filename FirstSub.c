@@ -1,3 +1,4 @@
+// This is a snake game I created using cursers in C
 
 #include <time.h>
 #include <ncurses.h>
