@@ -1,1 +1,1 @@
-# C-
+# Snake Game in C
